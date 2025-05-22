@@ -7,11 +7,11 @@ body {
   font-style: normal;
 }
 .main {
-  width: 400px;
+  width: 500px;
   margin: 0 auto;
 }
 img {
-  width:150%;
+  width:100%;
   padding:20px;
   border: 3cap solid;
   text-align: center;
@@ -33,18 +33,19 @@ input {
   padding: 12px 20px;
  
   box-sizing: border-box;
-  width: 40%;
+  width: 45%; 
   margin: 0 auto;
 }
-.clear{
-  width: 90px;
+ .clear{ 
+  width: 99px;
 }
 
-.equals{
-    width: 90px;
+.equals{ 
+    width: 99px;
 }
 
 
 input{
     box-shadow: 0 12px 16px 0 rgba(0,0,0,24), 0 17px 50px 0 rgba(0,0,0,19);
+  
 }
